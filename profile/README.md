@@ -8,7 +8,7 @@ Electric Sidecar is an app and community built around providing peace of mind to
 
 Browsing the community content doesn't require any kind of account, but if you want to contribute then you'll need a GitHub account ([signing up is easy!](https://github.com/signup)).
 
-The Electric Sidecar community on GitHub is organized around vehicle makes and models. If there isn't yet [a repository](https://github.com/orgs/ElectricSidecar/repositories) for your vehicle's make and model, please [request it](https://github.com/ElectricSidecar/.github/issues/new?assignees=&labels=&projects=&template=new-make-and-model.md&title=%5BMake%5D+Model).
+The Electric Sidecar community on GitHub is organized around vehicle makes and models. If there isn't yet [a repository](https://github.com/orgs/ElectricSidecar/repositories) for your vehicle's make and model, please [request it](https://github.com/ElectricSidecar/meta/issues/new?assignees=jverkoey&labels=new-vehicle&projects=&template=new-make-and-model.md&title=%5Bmake%5D+model).
 
 If you've encountered an issue with your vehicle please consider submitting it as a new issue on your vehice's repository, or adding a comment / emoji to an existing issue.
 
