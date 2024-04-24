@@ -2,7 +2,7 @@
 
 Electric Sidecar is an app and community built around providing peace of mind to vehicle owners. Whether you're experiencing an issue with a car you own, or are considering a car purchase, the Electric Sidecar community is a great place to get informed.
 
-*Join the beta via https://electricsidecar.app.*
+*Get the app via https://electricsidecar.app.*
 
 ## Getting involved
 
