@@ -6,7 +6,7 @@ The OBD database is an open source community effort to document the diagnostic p
 
 Browsing the database doesn't require any kind of account, but if you want to contribute then you'll need a GitHub account ([signing up is easy!](https://github.com/signup)).
 
-The OBDb is organized around vehicle makes and models. If there isn't yet [a repository](https://github.com/orgs/ElectricSidecar/repositories) for your vehicle's make and model, please [request it](https://github.com/ElectricSidecar/meta/issues/new?assignees=jverkoey&labels=new-vehicle&projects=&template=new-make-and-model.md&title=%5Bmake%5D+model).
+The OBDb is organized around vehicle makes and models. If there isn't yet [a repository](https://github.com/orgs/OBDb/repositories) for your vehicle's make and model, please [request it](https://github.com/OBDb/meta/issues/new?assignees=jverkoey&labels=new-vehicle&projects=&template=new-make-and-model.md&title=%5Bmake%5D+model).
 
 ## Copyrights
 
