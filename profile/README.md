@@ -2,6 +2,10 @@
 
 The OBD database is an open source community effort to document the diagnostic parameters and codes (DTCs) that can be used to talk to cars.
 
+## Browse the database
+
+https://obdb.community is updated daily with the latest data from the OBDb and is the best way to browse the database.
+
 ## Getting involved
 
 Browsing the database doesn't require any kind of account, but if you want to contribute then you'll need a GitHub account ([signing up is easy!](https://github.com/signup)).
