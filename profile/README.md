@@ -4,7 +4,7 @@ The OBD database is an open source community effort to document the diagnostic p
 
 ## Browse the database
 
-https://obdb.community is updated daily with the latest data from the OBDb and is the best way to browse the database.
+[Pelican](https://pelican.clutch.engineering) is an official partner of the OBDb and hosts its visual frontend: browse every make and model in the database at https://pelican.clutch.engineering/cars.
 
 ## Getting involved
 
