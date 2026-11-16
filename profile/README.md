@@ -33,3 +33,25 @@ If a new generation is introduced in the future, a new JSON file (e.g., `2021-20
 
 The text of the OBDb is copyrighted (automatically, under the Berne Convention) by OBDb editors and contributors and is formally licensed to
 the public under one or several liberal licenses. Most of OBDb's text is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)).
+
+## Attributing the OBDb in your app
+
+If your app, site or tool uses OBDb data, CC BY-SA 4.0 asks you to credit the OBDb wherever you credit other open source work, such as an About or Open Source Licenses screen. The credit names the OBDb and its contributors, links to the database, and names and links the license.
+
+Copy this text:
+
+```plaintext
+Vehicle signal definitions from the OBDb (https://github.com/OBDb),
+by OBDb contributors, licensed under CC BY-SA 4.0
+(https://creativecommons.org/licenses/by-sa/4.0/).
+```
+
+Or this HTML:
+
+```html
+Vehicle signal definitions from the <a href="https://github.com/OBDb">OBDb</a>,
+by OBDb contributors, licensed under
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+```
+
+If you changed the signal definitions, say so, for example "Vehicle signal definitions adapted from the OBDb…". Signal definitions you change and share must also be shared under CC BY-SA 4.0. The rest of your app's code is not affected.
